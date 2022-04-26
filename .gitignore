@@ -1,2 +1,3 @@
 /.vs
-/.sqlite
+/vs/**.*.sqlite
+git rm --cahed <slnx.sqlite>
